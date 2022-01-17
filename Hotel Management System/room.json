@@ -1,0 +1,26 @@
+[
+  { 
+    "id" : "1" ,
+    "name" : "Corner"
+    
+  },
+  
+   { 
+    "id" : "2" ,
+    "name" : "Deluxe"
+    
+  }, 
+  
+   { 
+    "id" : "3" ,
+    "name" : "King"
+    
+  },
+
+  { 
+    "id" : "4" ,
+    "name" : "Seaside"
+    
+  }
+]
+
